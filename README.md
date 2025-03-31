@@ -9,4 +9,5 @@ This project demonstrates how to implement an ETL (Extract, Transform, Load) pip
 ## Installation
 Before running the code, make sure you have the required dependencies installed. You can install them using pip:
 > pip install pandas faker
-> Note: sqlite3 comes pre-installed with Python, so you don't need to install it separately.
+
+Note: sqlite3 comes pre-installed with Python, so you don't need to install it separately.
